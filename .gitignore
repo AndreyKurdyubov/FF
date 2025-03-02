@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+*/__pycache__/*
+
+nrms_out.*
+protocol-img.*
+template.*
+timecodes.*
