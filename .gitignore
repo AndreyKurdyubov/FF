@@ -3,7 +3,7 @@
 
 */__pycache__/*
 
-nrms_out.*
-protocol-img.*
+*.ipynb
 template.*
 timecodes.*
+nrms_out.*
