@@ -7,3 +7,5 @@
 template.*
 timecodes.*
 nrms_out.*
+
+*.lock
